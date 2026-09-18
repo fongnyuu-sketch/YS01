@@ -1,0 +1,6 @@
+{
+  "name": "한주의 영양맞춤 식단과 레시피",
+  "description": "개인 맞춤 건강 목표(균형식단, 체중감량, 근성장, 저염·저당 혈당관리 등)에 맞춘 7일 영양 식단표와 단계별 레시피, 영양 분석 및 스마트 장보기 목록을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
